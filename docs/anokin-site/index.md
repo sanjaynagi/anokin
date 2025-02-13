@@ -6,4 +6,4 @@ AnoKin is a close-kin mark-recapture study of Anopheles mosquitoes in Kenya. The
 
 This documentation contains detailed protocols for field collections, laboratory methods, and computational analyses used in the AnoKin project. The results section will be updated with interactive visualizations and data summaries as the project progresses.
 
-The website is built using [Jupyter-book](https://jupyterbook.org/en/stable/intro.html) to provide an organized and accessible platform for project information and results.  
+The website is built using [Myst](https://mystmd.org/) to provide an organized and accessible platform for project information and results.  
