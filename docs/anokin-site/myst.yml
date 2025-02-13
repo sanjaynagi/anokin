@@ -11,13 +11,13 @@ project:
     of kinship between individual mosquitoes.
   keywords: ["malaria", "mosquitoes", "population genetics", "CKMR", "Kenya"]
   authors:
-    - name: Sanjay Curtis Nagi
+    - name: Sanjay C Nagi
       email: sanjay.nagi@lstmed.ac.uk 
       github: sanjaynagi
       affiliation: lstm
   affiliations:
     - id: lstm
-      institution: liverpool school of tropical medicine
+      institution: Liverpool School of Tropical Medicine
       department: Vector Observatory
       address: Pembroke Place
       city: Liverpool
@@ -40,8 +40,10 @@ site:
   template: book-theme
   options:
     favicon: favicon.ico
-    logo: logo.png
+    logo: logo_new.png
     hide_toc: false
     hide_footer_links: false
     hide_outline: false
     outline_maxdepth: 2
+    stylesheets:
+      - _static/custom.css
