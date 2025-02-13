@@ -1,0 +1,47 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 07ba6502-843a-4b1a-9205-4c9504b2eea5
+  title: "AnoKin"
+  subtitle: "Close-kin mark-recapture study of Anopheles mosquitoes in Lake Kanyaboli, Kenya"
+  github: https://github.com/sanjaynagi/anokin
+  description: >
+    AnoKin is a close-kin mark-recapture (CKMR) study investigating population dynamics 
+    and structure of Anopheles mosquitoes in Lake Kanyaboli, Kenya through genetic analysis 
+    of kinship between individual mosquitoes.
+  keywords: ["malaria", "mosquitoes", "population genetics", "CKMR", "Kenya"]
+  authors:
+    - name: Sanjay Curtis Nagi
+      email: sanjay.nagi@lstmed.ac.uk 
+      github: sanjaynagi
+      affiliation: lstm
+  affiliations:
+    - id: lstm
+      institution: liverpool school of tropical medicine
+      department: Vector Observatory
+      address: Pembroke Place
+      city: Liverpool
+      country: UK
+      postal_code: L8 2TF
+  banner: banner.png
+
+  toc:
+    - file: index.md
+    - title: Main
+      children:
+        - file: notebooks/why-anokin-why-ckmr.ipynb
+    - title: Protocols
+      children:
+        - file: notebooks/sampling_protocol.ipynb
+        - file: notebooks/morphological_id.ipynb
+
+site:
+  title: "AnoKin - Close-kin mark-recapture in Anopheles funestus, Western Kenya"
+  template: book-theme
+  options:
+    favicon: favicon.ico
+    logo: logo.png
+    hide_toc: false
+    hide_footer_links: false
+    hide_outline: false
+    outline_maxdepth: 2
