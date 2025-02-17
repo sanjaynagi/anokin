@@ -1,9 +1,5 @@
 # AnoKin
 
-Welcome to the AnoKin project documentation!
+Welcome to the AnoKin project website!
 
-AnoKin is a close-kin mark-recapture study of Anopheles mosquitoes in Kenya. The project aims to better understand mosquito population dynamics and structure through genetic analysis of kinship between individual mosquitoes. This website hosts the project protocols and will serve as a repository for results and analyses as they become available.
-
-This documentation contains detailed protocols for field collections, laboratory methods, and computational analyses used in the AnoKin project. The results section will be updated with interactive visualizations and data summaries as the project progresses.
-
-The website is built using [Myst](https://mystmd.org/) to provide an organized and accessible platform for project information and results.  
+AnoKin is a close-kin mark-recapture study of Anopheles mosquitoes in Kenya. The project aims to better understand malaria mosquito dispersal and population structure through genomic analysis of kinship between individual mosquitoes. This website hosts the project protocols and will serve as a repository for results and analyses as they become available. If you have any feedback or suggestions on how we could improve the website, please [get in touch](mailto:sanjay.nagi@lstmed.ac.uk).

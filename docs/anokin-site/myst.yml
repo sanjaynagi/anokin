@@ -10,11 +10,15 @@ project:
     and structure of Anopheles mosquitoes in Lake Kanyaboli, Kenya through genetic analysis 
     of kinship between individual mosquitoes.
   keywords: ["malaria", "mosquitoes", "population genetics", "CKMR", "Kenya"]
+  banner: banner.png
   authors:
     - name: Sanjay C Nagi
       email: sanjay.nagi@lstmed.ac.uk 
       github: sanjaynagi
       affiliation: lstm
+    - name: Brian Polo
+      email: otienobrn09@gmail.com
+      affiliation: kemri
   affiliations:
     - id: lstm
       institution: Liverpool School of Tropical Medicine
@@ -23,27 +27,29 @@ project:
       city: Liverpool
       country: UK
       postal_code: L8 2TF
-  banner: banner.png
+    - id: kemri
+      institution: Kenya Medical Research Institute
+      department: Entomology
+      address: Center for Global Health Research, Kisian, Kisumu
+      city: Kisumu
+      country: Kenya
 
   toc:
     - file: index.md
-    - title: Main
-      children:
-        - file: notebooks/why-anokin-why-ckmr.ipynb
+    - file: notebooks/ckmr.ipynb
     - title: Protocols
       children:
-        - file: notebooks/sampling_protocol.ipynb
-        - file: notebooks/morphological_id.ipynb
+        - file: notebooks/sampling-protocol.ipynb
+        - file: notebooks/morphological-id.ipynb
+        - file: notebooks/odk-forms.ipynb
 
 site:
   title: "AnoKin - Close-kin mark-recapture in Anopheles funestus, Western Kenya"
   template: book-theme
   options:
     favicon: favicon.ico
-    logo: logo_new.png
+    logo: logo2.png
     hide_toc: false
     hide_footer_links: false
     hide_outline: false
     outline_maxdepth: 2
-    stylesheets:
-      - _static/custom.css
