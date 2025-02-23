@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="points_day_1.schema">
+      <SimpleField name="fid" type="float"/>
+      <SimpleField name="Team" type="string"/>
+      <SimpleField name="day" type="string"/>
+    </Schema>
+    <Document id="points_day_1">
+      <name>points_day_1</name>
+      <Placemark id="points_day_1.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#points_day_1.schema">
+            <SimpleData name="fid">3</SimpleData>
+            <SimpleData name="Team">T1</SimpleData>
+            <SimpleData name="day">Day 1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.1780596781366,0.0775621528850249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="points_day_1.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#points_day_1.schema">
+            <SimpleData name="fid">4</SimpleData>
+            <SimpleData name="Team">T1</SimpleData>
+            <SimpleData name="day">Day 1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.1764726110198,0.0762276410612178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="points_day_1.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#points_day_1.schema">
+            <SimpleData name="fid">13</SimpleData>
+            <SimpleData name="Team">T2</SimpleData>
+            <SimpleData name="day">Day 1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.1832482757754,0.078222633476639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="points_day_1.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#points_day_1.schema">
+            <SimpleData name="fid">14</SimpleData>
+            <SimpleData name="Team">T2</SimpleData>
+            <SimpleData name="day">Day 1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.1808286378467,0.0760769509768849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="points_day_1.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#points_day_1.schema">
+            <SimpleData name="fid">23</SimpleData>
+            <SimpleData name="Team">T3</SimpleData>
+            <SimpleData name="day">Day 1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.185242528305,0.0737639569231079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="points_day_1.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#points_day_1.schema">
+            <SimpleData name="fid">24</SimpleData>
+            <SimpleData name="Team">T3</SimpleData>
+            <SimpleData name="day">Day 1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.185779508219,0.0711726245873308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

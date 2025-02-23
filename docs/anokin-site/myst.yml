@@ -42,6 +42,7 @@ project:
         - file: notebooks/sampling-protocol.ipynb
         - file: notebooks/morphological-id.ipynb
         - file: notebooks/odk-forms.ipynb
+        - file: notebooks/google-earth.ipynb
 
 site:
   title: "AnoKin - Close-kin mark-recapture in Anopheles funestus, Western Kenya"

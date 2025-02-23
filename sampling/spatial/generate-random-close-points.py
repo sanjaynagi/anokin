@@ -90,7 +90,7 @@ def generate_two_points_per_segment(layer, min_distance, max_distance):
 
 
 # Set random seed for reproducibility
-RANDOM_SEED = 77
+RANDOM_SEED = 88
 seed(RANDOM_SEED)
 
 # Parameters
