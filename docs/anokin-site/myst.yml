@@ -39,17 +39,17 @@ project:
     - file: notebooks/ckmr.ipynb
     - title: Protocols
       children:
-        - file: notebooks/sampling-protocol.ipynb
-        - file: notebooks/morphological-id.ipynb
-        - file: notebooks/odk-forms.ipynb
-        - file: notebooks/google-earth.ipynb
+        - file: notebooks/sampling-protocol.md
+        - file: notebooks/morphological-id.md
+        - file: notebooks/odk-forms.md
+        - file: notebooks/google-earth.md
 
 site:
   title: "AnoKin - Close-kin mark-recapture in Anopheles funestus, Western Kenya"
   template: book-theme
   options:
-    favicon: favicon.ico
-    logo: logo2.png
+    favicon: images/favicon.ico
+    logo: images/logo2.png
     hide_toc: false
     hide_footer_links: false
     hide_outline: false
