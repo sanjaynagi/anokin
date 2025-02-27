@@ -43,6 +43,10 @@ project:
         - file: notebooks/morphological-id.md
         - file: notebooks/odk-forms.md
         - file: notebooks/google-earth.md
+    - file:
+    - title:
+      children:
+        - file: notebooks/morpho-id.ipynb
 
 site:
   title: "AnoKin - Close-kin mark-recapture in Anopheles funestus, Western Kenya"
