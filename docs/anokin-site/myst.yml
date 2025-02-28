@@ -23,6 +23,7 @@ project:
     - title: Results
       children:
         - file: notebooks/morpho-id.ipynb
+        - file: notebooks/morpho-id-auto.ipynb
 
 site:
   title: "AnoKin - Close-kin mark-recapture in Anopheles funestus, Western Kenya"
