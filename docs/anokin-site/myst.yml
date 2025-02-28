@@ -10,29 +10,6 @@ project:
     and structure of Anopheles mosquitoes in Lake Kanyaboli, Kenya through genetic analysis 
     of kinship between individual mosquitoes.
   keywords: ["malaria", "mosquitoes", "population genetics", "CKMR", "Kenya"]
-  banner: banner.png
-  authors:
-    - name: Sanjay C Nagi
-      email: sanjay.nagi@lstmed.ac.uk 
-      github: sanjaynagi
-      affiliation: lstm
-    - name: Brian Polo
-      email: otienobrn09@gmail.com
-      affiliation: kemri
-  affiliations:
-    - id: lstm
-      institution: Liverpool School of Tropical Medicine
-      department: Vector Observatory
-      address: Pembroke Place
-      city: Liverpool
-      country: UK
-      postal_code: L8 2TF
-    - id: kemri
-      institution: Kenya Medical Research Institute
-      department: Entomology
-      address: Center for Global Health Research, Kisian, Kisumu
-      city: Kisumu
-      country: Kenya
 
   toc:
     - file: index.md

@@ -1,3 +1,15 @@
+---
+title: AnoKin
+authors:
+- name: Sanjay C Nagi
+  email: sanjay.nagi@lstmed.ac.uk 
+  github: sanjaynagi
+  affiliation: Liverpool School of Tropical medicine
+- name: Brian Polo
+  email: otienobrn09@gmail.com
+  affiliation: Kenya Medical Research Institute
+---
+
 # AnoKin
 
 Welcome to the AnoKin project website!
