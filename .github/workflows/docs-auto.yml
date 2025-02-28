@@ -51,11 +51,6 @@ jobs:
         env:
           ODK_EMAIL: ${{ secrets.ODK_EMAIL }}
           ODK_PASSWORD: ${{ secrets.ODK_PASSWORD }}
-          ODK_SERVER: ${{ secrets.ODK_SERVER }}
-          ODK_PROJECT_ID: ${{ secrets.ODK_PROJECT_ID }}
-          ODK_MORPH_FORM_ID: ${{ secrets.ODK_MORPH_FORM_ID }}
-          ODK_UVLT_FORM_ID: ${{ secrets.ODK_UVLT_FORM_ID }}
-          ODK_ASP_FORM_ID: ${{ secrets.ODK_ASP_FORM_ID }}
       
       # Execute the notebook with papermill
       - name: Execute notebook with papermill

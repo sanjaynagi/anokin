@@ -8,13 +8,12 @@ import io
 # Get credentials from environment variables
 email = os.environ.get('ODK_EMAIL')
 password = os.environ.get('ODK_PASSWORD')
-odk_server = os.environ.get('ODK_SERVER')
-project_id = os.environ.get('ODK_PROJECT_ID')
+odk_server = "https://odkcentral.lstmed.ac.uk"
+project_id = 37
+morph_form_id = 'ckmr_morpho_id'
+uvlt_form_id = 'ckmr_uvlt'
+asp_form_id = 'ckmr_sampling'
 
-# Get form IDs
-morph_form_id = os.environ.get('ODK_MORPH_FORM_ID')
-uvlt_form_id = os.environ.get('ODK_UVLT_FORM_ID')
-asp_form_id = os.environ.get('ODK_ASP_FORM_ID')
 
 print(f"Connecting to ODK server: {odk_server}")
 
