@@ -22,7 +22,6 @@ project:
         - file: notebooks/google-earth.md
     - title: Results
       children:
-        - file: notebooks/morpho-id.ipynb
         - file: notebooks/morpho-id-auto.ipynb
 
 site:
