@@ -1,4 +1,4 @@
-name: ODK Data Processing and MyST GitHub Pages Deploy
+name: ODK data, Run analysis, and Deploy
 on:
   # Keep the push trigger for manual updates
   push:
@@ -57,7 +57,7 @@ jobs:
       - name: Execute notebook with papermill
         run: |
           # Adjust the path to your notebook
-          papermill docs/anokin-site/notebooks/morpho-id-auto.ipynb docs/anokin-site/notebooks/morpho-id-auto.ipynb
+          papermill sampling/odk/morpho-id-auto.ipynb docs/anokin-site/notebooks/morpho-id-auto.ipynb
       
       # Setup Node.js for MyST
       - uses: actions/setup-node@v4
