@@ -7,7 +7,6 @@ on:
 schedule:
   - cron: '0 8 * * *'   # 11am EAT (8am UTC)
   - cron: '0 9 * * *'   # 12pm EAT (9am UTC)
-  - cron: '0 13 * * *'   # 4pm EAT (11am UTC)
   # Allow manual triggering
   workflow_dispatch:
 
