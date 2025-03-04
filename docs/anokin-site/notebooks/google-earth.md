@@ -25,6 +25,11 @@ Team 3: Yellow (Laban, Stephen)
 
 [https://earth.google.com/earth/d/1y_VqS6y1RjWtVzbebculFkHGj0OtZlpx?usp=sharing](https://earth.google.com/earth/d/1y_VqS6y1RjWtVzbebculFkHGj0OtZlpx?usp=sharing)
 
+#### Day 6 
+
+[https://earth.google.com/earth/d/1HbSZat1jUrZt9bbbHKoAXcS30vmEpw0m?usp=sharing](https://earth.google.com/earth/d/1HbSZat1jUrZt9bbbHKoAXcS30vmEpw0m?usp=sharing)
+
+
 ---
 
 Further days will be added later on. Here is the test point at [LWAK](https://earth.google.com/earth/d/1Tpy2rm-7e3yPJEHp21OJgqlrPWMSebN_?usp=sharing)
