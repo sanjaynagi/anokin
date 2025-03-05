@@ -29,6 +29,12 @@ Team 3: Yellow (Laban, Stephen)
 
 [https://earth.google.com/earth/d/1HbSZat1jUrZt9bbbHKoAXcS30vmEpw0m?usp=sharing](https://earth.google.com/earth/d/1HbSZat1jUrZt9bbbHKoAXcS30vmEpw0m?usp=sharing)
 
+#### Day 7 
+
+Day 7 geolocations are close to the location of day 1 - near the lake. 
+
+[https://earth.google.com/earth/d/1i8i2hrz1Y525OfJXicicQjfev3_AAShx?usp=sharing](https://earth.google.com/earth/d/1i8i2hrz1Y525OfJXicicQjfev3_AAShx?usp=sharing)
+
 
 ---
 
