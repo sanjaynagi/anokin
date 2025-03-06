@@ -35,6 +35,11 @@ Day 7 geolocations are close to the location of day 1 - near the lake.
 
 [https://earth.google.com/earth/d/1i8i2hrz1Y525OfJXicicQjfev3_AAShx?usp=sharing](https://earth.google.com/earth/d/1i8i2hrz1Y525OfJXicicQjfev3_AAShx?usp=sharing)
 
+#### Day 8 
+
+Day 8 geolocations are slightly further west than where we have sampled before. 
+
+[https://earth.google.com/earth/d/1Xnz1MbBLo8DK4uoeQzDnHTmiGZlhMQvT?usp=sharing](https://earth.google.com/earth/d/1Xnz1MbBLo8DK4uoeQzDnHTmiGZlhMQvT?usp=sharing)
 
 ---
 
