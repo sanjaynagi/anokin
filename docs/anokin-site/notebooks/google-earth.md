@@ -41,6 +41,11 @@ Day 8 geolocations are slightly further west than where we have sampled before.
 
 [https://earth.google.com/earth/d/1Xnz1MbBLo8DK4uoeQzDnHTmiGZlhMQvT?usp=sharing](https://earth.google.com/earth/d/1Xnz1MbBLo8DK4uoeQzDnHTmiGZlhMQvT?usp=sharing)
 
+#### Day 9 
+
+[https://earth.google.com/earth/d/1yUrQnkiYtjSS2jHqLIFelrQprraIx-oM?usp=sharing](https://earth.google.com/earth/d/1yUrQnkiYtjSS2jHqLIFelrQprraIx-oM?usp=sharing)
+
+
 ---
 
 Further days will be added later on. Here is the test point at [LWAK](https://earth.google.com/earth/d/1Tpy2rm-7e3yPJEHp21OJgqlrPWMSebN_?usp=sharing)
