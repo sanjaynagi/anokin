@@ -45,6 +45,10 @@ Day 8 geolocations are slightly further west than where we have sampled before.
 
 [https://earth.google.com/earth/d/1yUrQnkiYtjSS2jHqLIFelrQprraIx-oM?usp=sharing](https://earth.google.com/earth/d/1yUrQnkiYtjSS2jHqLIFelrQprraIx-oM?usp=sharing)
 
+#### Day 10
+
+[https://earth.google.com/earth/d/1R15e2GPtpuHUrA940WqNl3KjL-Y3KaVN?usp=sharing](https://earth.google.com/earth/d/1R15e2GPtpuHUrA940WqNl3KjL-Y3KaVN?usp=sharing)
+
 
 ---
 
