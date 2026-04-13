@@ -1,0 +1,23 @@
+# Raw and derived genomic data — too large for git
+data/
+resources/
+
+# Analysis outputs
+results/
+
+# Local-only / not tracked
+skills/
+spatial/
+CLAUDE.md
+docs/paper-plan.md
+.vscode/
+ServiceSpecification-*.pdf
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pixi/
+
+# OS
+.DS_Store
