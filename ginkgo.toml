@@ -1,0 +1,26 @@
+[project]
+name = "anokin"
+description = "Close-kin mark-recapture in Anopheles funestus"
+
+[data]
+snp_2 = "data/Report_DMo25-3087_SNP_2.csv"
+snp_3 = "data/Report_DMo25-3087_SNP_3.csv"
+metadata = "data/master_metadata.csv"
+
+[qc]
+sample_cr_min = 0.5
+marker_cr_min = 0.7
+maf_min = 0.01
+repavg_min = 0.95
+fis_max = 0.3
+
+[kinship]
+king_po_threshold = 0.177
+king_fs_threshold = 0.0884
+king_hs_threshold = 0.0442
+n_bootstrap = 1000
+
+[pca]
+n_components = 10
+max_markers_ibs = 10000
+seed = 42
